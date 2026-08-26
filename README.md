@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bruna Cristtina
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 JavaScript & .NET Specialist**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
